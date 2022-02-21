@@ -1,6 +1,5 @@
-LOCUS       name                    3712 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  description
-            cSEGUID_q57RyGZNeeL1idS9Iw5-d333XPg_2019-09-24T08:40:52.379293.
+LOCUS       pYPKa_A_EcacpH          3712 bp    DNA     circular UNK 01-JAN-1980
+DEFINITION  cSEGUID_q57RyGZNeeL1idS9Iw5-d333XPg.
 ACCESSION   id
 VERSION     id
 DBLINK      BioProject: PRJNA57779
